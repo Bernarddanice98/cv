@@ -1,0 +1,52 @@
+!<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <<h1>Bernard Danice</h1>
+    <h2><strong><em>Just a <a href="#">regular guy</a></em></strong></h2>
+    <p>Like I said , I am just a regular guy doing regular things</p>
+    <h2>What are you doing ?</h2>
+    <ul>
+      <li>Nothing</li>
+      <li>Nothing</li>
+    </ul>
+    <h2>My hobbies</h2>
+    <ol>
+      <li>Basketball</li>
+      <li>Musique</li>
+      <li>Whatching movies</li>
+    </ol>
+    <h3>Skills</h3>
+  <table>
+    <tr>
+      <td>
+        <p>Python Dev</p>
+      </td>
+      <td><p>⭐⭐⭐</p></td>
+      <td>
+        <p>Html Dev</p>
+      </td>
+      <td><p>⭐⭐⭐</p></td>
+    </tr>
+    <tr>
+      <td><p>Basketball</p></td>
+      <td><p>⭐⭐</p></td>
+      <td>
+        <p>Cooking</p>
+      </td>
+      <td><p>⭐</p></td>
+    </tr>
+  </table>
+  <form action="index.html">
+    <label>Tel:</label>
+    <input type="tel"><br>
+    <label>Email:</label>
+    <input type="email"><br>
+    <label>Your message:</label><br>
+    <textarea rows=8 cols=20></textarea>
+  </form>
+  </body>
+</html>
